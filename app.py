@@ -10,7 +10,6 @@ import scipy.stats as stats
 from wordcloud import WordCloud
 import squarify
 import plotly.graph_objects as go
-import networkx as nx
 from docx import Document
 from io import BytesIO
 import base64
