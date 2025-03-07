@@ -140,7 +140,7 @@ def set_png_as_page_bg(png_file):
     st.markdown(page_bg_img, unsafe_allow_html=True)
 
 # Set the background image
-set_png_as_page_bg("C:/Users/keno/Downloads/Add a heading (1).png")
+set_png_as_page_bg("backgroundtest.png")
 
 data_str = {
     'City': ['Tokyo', 'Osaka', 'Kyoto', 'Yokohama', 'Nagoya', 'Sapporo', 'Kobe', 'Fukuoka'],
